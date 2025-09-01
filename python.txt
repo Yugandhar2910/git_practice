@@ -1,1 +1,1 @@
-python is easy programming language
+python is highlevel language
