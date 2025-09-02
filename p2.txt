@@ -1,1 +1,2 @@
 python is based on interpreter
+python is also platform independent
