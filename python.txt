@@ -1,6 +1,0 @@
-python is highlevel language
-<<<<<<< Updated upstream
-gudio van rossum introduced python
-=======
-python is platform independent
->>>>>>> Stashed changes
